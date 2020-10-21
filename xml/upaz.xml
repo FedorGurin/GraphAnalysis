@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<data> 
+        <struct isDisplay="1" howElements="1" comment="" displayName="AB" >
+          <param howElements="1" isDisplay="1" acc="3" displayName="x_cone" type="double" messure="номер" comment="D_VPP"></param>
+          <param howElements="1" isDisplay="1" acc="3" displayName="y_cone" type="double" messure="м/с" comment="H_aer"></param>
+          <param howElements="1" isDisplay="1" acc="3" displayName="z_cone" type="double" messure="м" comment="D_VPP"></param>
+        </struct>
+ 
+</data>
